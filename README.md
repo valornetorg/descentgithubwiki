@@ -1,2 +1,1 @@
-# descentgithubwiki
-Wiki for Descent server.
+# REPLACED IN FAVOR OF: https://wiki.valornet.work/
